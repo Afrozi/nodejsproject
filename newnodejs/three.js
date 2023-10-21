@@ -1,0 +1,10 @@
+const fs = require('fs');
+// fs.mkdirSync('nodejs',(console.log('hello')));
+// fs.appendFileSync('nodejs/data.txt',"hello from the thapa technical",(console.log('hello')));
+// fs.appendFileSync('nodejs/data.txt',"hello from the thapa technical",(console.log('error')));
+// const thapa = fs.readFileSync('nodejs/data.txt',"utf-8");
+// // console.log(thapa.toString());
+// console.log(thapa);
+// fs.renameSync('nodejs/datas.txt','nodejs/datasweb.txt');
+//  fs.unlinkSync('nodejs/datasweb.txt');
+// fs.rmdirSync('nodejs',(console.log('error')));
